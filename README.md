@@ -1,6 +1,6 @@
-# CPSC 210 Final Project
+# Blasty Boxes
 
-## Super Bomber Man
+## Proposal
 
 This project aims to be a game in a similar style to the *Bomber Man* games.
 The game should be able to be played by anyone who has two hands. I make
